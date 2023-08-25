@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:youtube_clone/utils/all_colors.dart';
+import 'package:youtube_clone/utils/data.dart';
 
 class CustomFilledButton extends StatelessWidget with CustomTextStyle {
   const CustomFilledButton({

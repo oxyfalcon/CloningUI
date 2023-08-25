@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:youtube_clone/utils/card_elements.dart';
-import 'package:youtube_clone/utils/all_colors.dart';
+import 'package:youtube_clone/utils/data.dart';
 
 class PaidToYou extends StatelessWidget {
   const PaidToYou({

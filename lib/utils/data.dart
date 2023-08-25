@@ -25,9 +25,7 @@ Map<Map<int, String>, Color> _valueToChart = {
 Map<Map<int, String>, Color> valueToChart =
     sortMapByInnerMapKeys(_valueToChart);
 
-abstract class ColorMap extends Color {
-  static final ColorMap _obj = ColorMap._();
-  factory ColorMap._() => _obj;
+abstract class ColorMap {
   static const Color listTileSecondartText = Color.fromRGBO(140, 140, 140, 1);
   static const Color cardSecondaryText = Color.fromRGBO(137, 137, 137, 1);
   static const Color greyBackGround = Color.fromRGBO(250, 250, 250, 1);

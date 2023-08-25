@@ -3,7 +3,7 @@ import 'package:youtube_clone/HomePage/client_widget/client_widget.dart';
 import 'package:youtube_clone/HomePage/custom_listTile/leading.dart';
 import 'package:youtube_clone/HomePage/custom_listTile/trailing.dart';
 import 'package:youtube_clone/HomePage/revenue_widget/revenue_widget.dart';
-import 'package:youtube_clone/utils/all_colors.dart';
+import 'package:youtube_clone/utils/data.dart';
 import 'package:youtube_clone/utils/card_title.dart';
 
 class MyHomePage extends StatelessWidget {

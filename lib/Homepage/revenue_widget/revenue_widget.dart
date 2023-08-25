@@ -3,7 +3,7 @@ import 'package:youtube_clone/utils/card_elements.dart';
 import 'package:youtube_clone/Homepage/revenue_widget/pie_chart/chart_and_lebel.dart';
 import 'package:youtube_clone/Homepage/revenue_widget/outstanding_payment.dart';
 import 'package:youtube_clone/Homepage/revenue_widget/paid_to_you.dart';
-import 'package:youtube_clone/utils/all_colors.dart';
+import 'package:youtube_clone/utils/data.dart';
 
 class RevenueWidget extends StatelessWidget {
   const RevenueWidget({super.key});
