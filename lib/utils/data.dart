@@ -26,7 +26,7 @@ Map<Map<int, String>, Color> valueToChart =
     sortMapByInnerMapKeys(_valueToChart);
 
 abstract class ColorMap {
-  static const Color listTileSecondartText = Color.fromRGBO(140, 140, 140, 1);
+  static const Color listTileSecondaryText = Color.fromRGBO(140, 140, 140, 1);
   static const Color cardSecondaryText = Color.fromRGBO(137, 137, 137, 1);
   static const Color greyBackGround = Color.fromRGBO(250, 250, 250, 1);
   static const Color whiteBackground = Colors.white;
